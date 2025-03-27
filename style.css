@@ -49,6 +49,12 @@ body {
     padding: 10px;
     border-radius:30px;
 }
+.categories p:hover{
+    background-color: white;
+    color:black;
+    border:1px solid #a435f0;
+    cursor: pointer;
+}
 .sale-image img{
     width: 100%;
 }
